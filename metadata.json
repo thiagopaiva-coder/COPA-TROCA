@@ -1,0 +1,6 @@
+{
+  "name": "Copa Trocas",
+  "description": "Plataforma completa e moderna de glassmorphism para gerenciar trocas e vendas de figurinhas da Copa do Mundo de 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
